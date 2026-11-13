@@ -1,0 +1,6 @@
+package com.worldflags.quiz.data.sample.flags
+
+import com.worldflags.quiz.data.sample.FlagVector
+
+internal fun gdArt(): FlagVector = FlagVector(500.0f, 300.0f, listOf(
+    "H4sIAClD92oC_62UuY7cMAyGa-cp-AAUwUMipTJ95gXSJZMxEGAPYDHb-OlDeZ0Um2uQbGMBPD7-FGmt6_kior6URYiXh8eH7fL0uHx-vl6X-6_Xy9NyAkaGO2j8cjIaM3w4zu3dujLHp3b5E6EqVs3cKn4wVDwZadfWd8h6_iLit0N-JH83TMjfe9HuKI3hPZijOXBqEdCW3-6vrVJ_Fyv1tfXgfrxJhQdFHTOBqsAZKjWu2MkGiJF6QwlqCso0srk8wjKMSdSw9OkqSgOLDKoVShBbxaKdUthtt-kJE0VRIZ9sT2gqMnKBIk7DDKsTd1AlaY4tXSMDS6WuiiUT-qw8TFJH7DqcorXU4ZTjPUMnZUFL1ZDEblmNtM2uTAJTu87KwjS7ssgyMHM1W7GsMqBYo5COJZWEwwYnyDvLsQ9qOfgiQtUVM0rTfQfGxJzh2VTnuSuTykP2pdudgYdvg_us_LLSv-bET5x_wtwuhzNyX-j_1FPeqK-34ZyOPyZ20MgdD8z5-Yj9UaHouUyW6zH2kbpSxPHg7L7DtX0DJWpqEKoEAAA=").joinToString(""))

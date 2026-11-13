@@ -1,0 +1,6 @@
+package com.worldflags.quiz.data.sample.flags
+
+import com.worldflags.quiz.data.sample.FlagVector
+
+internal fun myArt(): FlagVector = FlagVector(13440.0f, 6720.0f, listOf(
+    "H4sIACpD92oC_5VSQW4DIQw8k1fwALsy4IXdP_QTbRSkSk0iRdvLvr62IWF7SKtyQCNszwwDtbbl0IUXcpfrZTvdru79a13d-WM93dzZE5D_9CExN0SQSyT_egfboVay5Wo9Hg08JeOZILIRxiUroQoIEj6thUjj6FlTkq4umvPf1tVld840N-cG_uW8z4wkhieCifiH7dZy0GiV9zePLDcGzVHGqEBJURAHBswhCcQYIxTKepG0AKZipxNlmCzIkmbAadHDvEi6uWjrA-GojxncUQ1-3MsOMwaxY21pHTqHfVDpGptqYBdRZRNWN9jt7PCjjrupQYU7hbvsJiljlsQS-Tf5HvZl5FnIB3kSuXNiK2j-ulkheJXUyvYNsDTR6_ECAAA=").joinToString(""))
